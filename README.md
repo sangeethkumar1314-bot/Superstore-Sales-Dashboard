@@ -7,8 +7,7 @@
 
 ## 🖼️ Dashboard Preview
 
-![Superstore Sales Dashboard](screenshot/dashboard.png)
-
+Screenshot/Screenshot 2026-10-01 233634.png
 ---
 
 ## 📌 Project Overview
