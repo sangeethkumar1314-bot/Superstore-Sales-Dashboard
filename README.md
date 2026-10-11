@@ -7,7 +7,7 @@
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard superstore]/(Screenshot 2026-10-01 233634.png)
+![Dashboard superstore](Screenshot/Screenshot 2026-10-01 233634.png)
 ---
 
 ## 📌 Project Overview
