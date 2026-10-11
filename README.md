@@ -7,7 +7,8 @@
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard superstore](Screenshot/Screenshot 2026-10-01 233634.png)
+![Superstore Sales Dashboard](Screenshot/Screenshot%202026-10-01%20233634.png)
+
 ---
 
 ## 📌 Project Overview
@@ -109,7 +110,7 @@ Identifying the highest-selling products can support inventory planning, product
 
 ## 📂 Repository Structure
 
-- `screenshot/dashboard.png` : Dashboard screenshot
+- `Screenshot/Screenshot 2026-10-01 233634.png` : Dashboard screenshot
 - `Superstore_Dashboard.xlsx` : Excel dashboard file
 - `README.md` : Project documentation
 
@@ -136,7 +137,7 @@ Identifying the highest-selling products can support inventory planning, product
 I'm looking forward to applying these skills to more real-world business problems.
 
 - 🔗 LinkedIn: [your-linkedin-url](https://www.linkedin.com/)
-- 📧 Email: your-email@example.com
+- 📧 Email: sangeethkumar1314@gmail.com
 
 ---
 
