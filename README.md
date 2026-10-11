@@ -136,7 +136,7 @@ Identifying the highest-selling products can support inventory planning, product
 
 I'm looking forward to applying these skills to more real-world business problems.
 
-- 🔗 LinkedIn: [your-linkedin-url](https://www.linkedin.com/)
+- 🔗 LinkedIn: [your-linkedin-url](www.linkedin.com/in/sangeethkumar-ponraj-amuthavalli)
 - 📧 Email: sangeethkumar1314@gmail.com
 
 ---
