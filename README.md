@@ -7,7 +7,7 @@
 
 ## 🖼️ Dashboard Preview
 
-![Superstore Sales Dashboard](Superstore Sales Dashboard Overview.png).
+![Superstore Sales Dashboard](https://github.com/sangeethkumar1314-bot/Superstore-Sales-Dashboard/blob/main/Screenshot/Superstore%20Sales%20Dashboard%20Overview.png)
 
 ---
 
